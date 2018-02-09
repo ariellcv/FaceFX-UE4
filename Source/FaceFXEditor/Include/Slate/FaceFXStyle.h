@@ -20,6 +20,9 @@
 
 #pragma once
 
+#include "CoreMinimal.h"
+struct FSlateBrush;
+
 /** A wrapper for the FaceFX related slate style sets */
 struct FFaceFXStyle
 {

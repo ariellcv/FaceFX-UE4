@@ -22,6 +22,8 @@ SOFTWARE.
 #include "FaceFXAudioImplDefault.h"
 #include "Sound/SoundWave.h"
 #include "Components/AudioComponent.h"
+#include "Engine/StreamableManager.h"
+#include "GameFramework/Actor.h"
 
 void FFaceFXAudioDefault::Prepare(const UFaceFXAnim* Animation)
 {

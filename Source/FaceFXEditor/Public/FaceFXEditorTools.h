@@ -22,6 +22,7 @@
 
 #include "FaceFXData.h"
 #include "FaceFXEditor.h"
+#include "Paths.h"
 
 #include "FaceFXEditorTools.generated.h"
 

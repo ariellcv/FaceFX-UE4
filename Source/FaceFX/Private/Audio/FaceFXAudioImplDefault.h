@@ -22,7 +22,7 @@ SOFTWARE.
 
 #include "FaceFXAudio.h"
 
-class UAudioComponent;
+#include "Components/AudioComponent.h"
 
 /** Audio layer that uses the Unreal Audio System */
 struct FFaceFXAudioDefault : public IFaceFXAudio
